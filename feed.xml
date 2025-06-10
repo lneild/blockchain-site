@@ -1,0 +1,95 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>Blockchain, Crypto, and What's Next</title>
+  <subtitle>A comprehensive exploration of blockchain technology, cryptocurrency, and their evolving applications in the digital world.</subtitle>
+  <updated>2025-06-11T02:58:01+08:00</updated>
+  <author>
+    <name>Lainey Neild</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Lainey Neild </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Cryptocurrency: The Most Important Application on the Blockchain</title>
+    <link href="/posts/cryptocurrency-application/" rel="alternate" type="text/html" title="Cryptocurrency: The Most Important Application on the Blockchain" />
+    <published>2025-06-05T00:00:00+08:00</published>
+  
+    <updated>2025-06-05T00:00:00+08:00</updated>
+  
+    <id>/posts/cryptocurrency-application/</id>
+    <content type="text/html" src="/posts/cryptocurrency-application/" />
+    <author>
+      <name>Lainey Neild</name>
+    </author>
+
+  
+    
+    <category term="Cryptocurrency" />
+    
+  
+
+  <summary>Cryptocurrency is arguably the most well-known and widely used application built on blockchain technology. It’s what most people think of when they hear “blockchain” in the first place. While blockchain is the underlying infrastructure, crypto is one of the main things we use it for. Think of blockchain as the internet, and crypto as one of its biggest apps.  At its core, cryptocurrency is digi...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Beyond Money: Blockchain's Expanding Role</title>
+    <link href="/posts/beyond-money/" rel="alternate" type="text/html" title="Beyond Money: Blockchain&amp;apos;s Expanding Role" />
+    <published>2025-06-05T00:00:00+08:00</published>
+  
+    <updated>2025-06-05T00:00:00+08:00</updated>
+  
+    <id>/posts/beyond-money/</id>
+    <content type="text/html" src="/posts/beyond-money/" />
+    <author>
+      <name>Lainey Neild</name>
+    </author>
+
+  
+    
+    <category term="Blockchain Applications" />
+    
+  
+
+  <summary>Cryptocurrency may be the most well-known application of blockchain, but it’s far from the only one. In fact, some of the most promising and creative use cases have nothing to do with digital money at all. Just like the internet gave rise to social media, e-commerce, cloud storage, and a million other tools, blockchain is starting to power a new wave of systems built around ownership, automatio...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Blockchain: The Foundation</title>
+    <link href="/posts/blockchain-foundation/" rel="alternate" type="text/html" title="Blockchain: The Foundation" />
+    <published>2025-05-06T00:00:00+08:00</published>
+  
+    <updated>2025-05-06T00:00:00+08:00</updated>
+  
+    <id>/posts/blockchain-foundation/</id>
+    <content type="text/html" src="/posts/blockchain-foundation/" />
+    <author>
+      <name>Lainey Neild</name>
+    </author>
+
+  
+    
+    <category term="Blockchain" />
+    
+  
+
+  <summary>Let’s start with a relatable scenario:  You and your friends are going on a trip. Instead of Venmo-ing each other after every small purchase, you just take turns covering things: you buy lunch, Salley grabs the coffees, someone else pays for gas. You keep a running tab and settle up later. But for this system to work, a few things have to happen:     You need a record of who paid for what   Eve...</summary>
+
+  </entry>
+
+</feed>
+
+
