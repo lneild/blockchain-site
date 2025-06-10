@@ -126,7 +126,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/blockchain-site"
+url: "https://laineyneild.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -200,5 +201,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-publish_dir: ./_site
