@@ -1,14 +1,14 @@
 const swconf = {
   
-    cacheName: 'chirpy-1749582680',resources: [
-      '/assets/css/jekyll-theme-chirpy.css',
-      '/',
+    cacheName: 'chirpy-1749583141',resources: [
+      '/blockchain-site/assets/css/jekyll-theme-chirpy.css',
+      '/blockchain-site/',
       
-        '/categories/',
+        '/blockchain-site/categories/',
       
-        '/tags/',
+        '/blockchain-site/tags/',
       
-        '/about/',
+        '/blockchain-site/about/',
       
 
       

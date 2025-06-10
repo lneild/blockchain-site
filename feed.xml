@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>https://laineyneild.github.io/blockchain-site/</id>
   <title>Blockchain, Crypto, and What's Next</title>
   <subtitle>A comprehensive exploration of blockchain technology, cryptocurrency, and their evolving applications in the digital world.</subtitle>
-  <updated>2025-06-11T03:11:20+08:00</updated>
+  <updated>2025-06-11T03:19:00+08:00</updated>
   <author>
     <name>Lainey Neild</name>
-    <uri>/</uri>
+    <uri>https://laineyneild.github.io/blockchain-site/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://laineyneild.github.io/blockchain-site/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="https://laineyneild.github.io/blockchain-site/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Lainey Neild </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/blockchain-site/assets/img/favicons/favicon.ico</icon>
+  <logo>/blockchain-site/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Cryptocurrency: The Most Important Application on the Blockchain</title>
-    <link href="/posts/cryptocurrency-application/" rel="alternate" type="text/html" title="Cryptocurrency: The Most Important Application on the Blockchain" />
+    <link href="https://laineyneild.github.io/blockchain-site/posts/cryptocurrency-application/" rel="alternate" type="text/html" title="Cryptocurrency: The Most Important Application on the Blockchain" />
     <published>2025-06-05T00:00:00+08:00</published>
   
     <updated>2025-06-05T00:00:00+08:00</updated>
   
-    <id>/posts/cryptocurrency-application/</id>
-    <content type="text/html" src="/posts/cryptocurrency-application/" />
+    <id>https://laineyneild.github.io/blockchain-site/posts/cryptocurrency-application/</id>
+    <content type="text/html" src="https://laineyneild.github.io/blockchain-site/posts/cryptocurrency-application/" />
     <author>
       <name>Lainey Neild</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Beyond Money: Blockchain's Expanding Role</title>
-    <link href="/posts/beyond-money/" rel="alternate" type="text/html" title="Beyond Money: Blockchain&amp;apos;s Expanding Role" />
+    <link href="https://laineyneild.github.io/blockchain-site/posts/beyond-money/" rel="alternate" type="text/html" title="Beyond Money: Blockchain&amp;apos;s Expanding Role" />
     <published>2025-06-05T00:00:00+08:00</published>
   
     <updated>2025-06-05T00:00:00+08:00</updated>
   
-    <id>/posts/beyond-money/</id>
-    <content type="text/html" src="/posts/beyond-money/" />
+    <id>https://laineyneild.github.io/blockchain-site/posts/beyond-money/</id>
+    <content type="text/html" src="https://laineyneild.github.io/blockchain-site/posts/beyond-money/" />
     <author>
       <name>Lainey Neild</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>Blockchain: The Foundation</title>
-    <link href="/posts/blockchain-foundation/" rel="alternate" type="text/html" title="Blockchain: The Foundation" />
+    <link href="https://laineyneild.github.io/blockchain-site/posts/blockchain-foundation/" rel="alternate" type="text/html" title="Blockchain: The Foundation" />
     <published>2025-05-06T00:00:00+08:00</published>
   
     <updated>2025-05-06T00:00:00+08:00</updated>
   
-    <id>/posts/blockchain-foundation/</id>
-    <content type="text/html" src="/posts/blockchain-foundation/" />
+    <id>https://laineyneild.github.io/blockchain-site/posts/blockchain-foundation/</id>
+    <content type="text/html" src="https://laineyneild.github.io/blockchain-site/posts/blockchain-foundation/" />
     <author>
       <name>Lainey Neild</name>
     </author>
