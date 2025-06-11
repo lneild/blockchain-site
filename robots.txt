@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://laineyneild.github.io/blockchain-site/sitemap.xml
+Sitemap: https://blockchain-site-k1uk.vercel.app/sitemap.xml
