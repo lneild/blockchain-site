@@ -125,6 +125,7 @@ pwa:
 
 paginate: 10
 
+
 # The base URL of your site
 baseurl: "/blockchain-site"
 url: "https://laineyneild.github.io"
