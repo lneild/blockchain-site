@@ -4,7 +4,7 @@
   <id>https://blockchain-site-k1uk.vercel.app/</id>
   <title>Blockchain, Crypto, and What's Next</title>
   <subtitle>A comprehensive exploration of blockchain technology, cryptocurrency, and their evolving applications in the digital world.</subtitle>
-  <updated>2025-06-12T20:40:18+08:00</updated>
+  <updated>2025-06-12T20:52:00+08:00</updated>
   <author>
     <name>Lainey Neild</name>
     <uri>https://blockchain-site-k1uk.vercel.app/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Beyond Money: Blockchain's Expanding Role</title>
+    <link href="https://blockchain-site-k1uk.vercel.app/posts/beyond-money/" rel="alternate" type="text/html" title="Beyond Money: Blockchain&amp;apos;s Expanding Role" />
+    <published>2025-06-10T00:00:00+08:00</published>
+  
+    <updated>2025-06-10T00:00:00+08:00</updated>
+  
+    <id>https://blockchain-site-k1uk.vercel.app/posts/beyond-money/</id>
+    <content type="text/html" src="https://blockchain-site-k1uk.vercel.app/posts/beyond-money/" />
+    <author>
+      <name>Lainey Neild</name>
+    </author>
+
+  
+    
+    <category term="Blockchain Applications" />
+    
+  
+
+  <summary>Cryptocurrency may be the most well-known application of blockchain, but it’s far from the only one. Some of the most promising and creative use cases have nothing to do with digital money. Just like the internet gave rise to social media, e-commerce, and cloud storage, blockchain is powering a new wave of systems built around ownership, automation, and transparency.  At its core, blockchain is...</summary>
+
+  </entry>
 
   
   <entry>
@@ -44,35 +68,11 @@
 
   
   <entry>
-    <title>Beyond Money: Blockchain's Expanding Role</title>
-    <link href="https://blockchain-site-k1uk.vercel.app/posts/beyond-money/" rel="alternate" type="text/html" title="Beyond Money: Blockchain&amp;apos;s Expanding Role" />
-    <published>2025-06-05T00:00:00+08:00</published>
-  
-    <updated>2025-06-05T00:00:00+08:00</updated>
-  
-    <id>https://blockchain-site-k1uk.vercel.app/posts/beyond-money/</id>
-    <content type="text/html" src="https://blockchain-site-k1uk.vercel.app/posts/beyond-money/" />
-    <author>
-      <name>Lainey Neild</name>
-    </author>
-
-  
-    
-    <category term="Blockchain Applications" />
-    
-  
-
-  <summary>Cryptocurrency may be the most well-known application of blockchain, but it’s far from the only one. Some of the most promising and creative use cases have nothing to do with digital money. Just like the internet gave rise to social media, e-commerce, and cloud storage, blockchain is powering a new wave of systems built around ownership, automation, and transparency.  At its core, blockchain is...</summary>
-
-  </entry>
-
-  
-  <entry>
     <title>Blockchain: The Foundation</title>
     <link href="https://blockchain-site-k1uk.vercel.app/posts/blockchain-foundation/" rel="alternate" type="text/html" title="Blockchain: The Foundation" />
-    <published>2025-05-06T00:00:00+08:00</published>
+    <published>2025-06-01T00:00:00+08:00</published>
   
-    <updated>2025-05-06T00:00:00+08:00</updated>
+    <updated>2025-06-01T00:00:00+08:00</updated>
   
     <id>https://blockchain-site-k1uk.vercel.app/posts/blockchain-foundation/</id>
     <content type="text/html" src="https://blockchain-site-k1uk.vercel.app/posts/blockchain-foundation/" />
