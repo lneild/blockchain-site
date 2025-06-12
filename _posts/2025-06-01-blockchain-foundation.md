@@ -1,6 +1,6 @@
 ---
 title: "Blockchain: The Foundation"
-date: 2025-05-06
+date: 2025-06-01
 categories: [Blockchain]
 tags: [blockchain, technology, decentralization, cryptocurrency, smart contracts]
 ---

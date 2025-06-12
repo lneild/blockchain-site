@@ -1,6 +1,6 @@
 ---
 title: "Beyond Money: Blockchain's Expanding Role"
-date: 2025-06-05
+date: 2025-06-10
 categories: [Blockchain Applications]
 tags: [smart contracts, DAOs, NFTs, blockchain applications, blockchain, cryptocurrency, technology]
 ---
