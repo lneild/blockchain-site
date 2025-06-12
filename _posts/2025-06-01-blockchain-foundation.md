@@ -149,3 +149,4 @@ No single person controls the blockchain. There's no CEO who can shut it down, n
 Because many blockchains have a fixed supply, your money isn't vulnerable to inflation the same way traditional currency is. No one can dilute your purchasing power by creating more coins.
 
 It's a system designed to be trustless, transparent, and resilient — and it works because everyone in the network plays by the same rules, enforced not by people, but by math.
+
