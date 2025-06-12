@@ -4,7 +4,6 @@ date: 2025-06-05
 categories: [Cryptocurrency]
 tags: [cryptocurrency, bitcoin, stablecoins, CBDC, blockchain, technology, smart contracts]
 ---
-## Section 2: Crypto
 
 Cryptocurrency is arguably the most well-known and widely used application built on blockchain technology. It is what most people think of when they hear "blockchain" for the first time. While blockchain is the underlying infrastructure, crypto is one of the main things we use it for. You can think of blockchain as the internet and crypto as one of its biggest apps.
 
