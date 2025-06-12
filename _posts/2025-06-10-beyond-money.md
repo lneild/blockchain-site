@@ -15,7 +15,7 @@ Here are a few of the most interesting ways blockchain is being used beyond curr
 
 ## The Case for Blockchain and the LLC
 
-### Why LLCs Were Created—and Why They’re Outdated
+### Why LLCs Were Created, and Why They’re Outdated
 
 LLCs emerged in the 1800s during the rise of large, risky infrastructure projects like railroads. Investors needed a way to share in profits without risking their personal assets if things went south. That led to the concept of **limited liability**.
 
